@@ -38,15 +38,11 @@ Your mission? *Guess the hidden number in the given range* 🔢 … but beware, 
 
 ---
 
-## ⚙ Installation & Run
+## 🖥️ Download
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/guess-the-number.git
-   ```
+👉 [Download GuessTheNumber.exe](https://github.com/satyam-dev/guess-the-number/releases/latest/download/GuessTheNumber.exe)
 
-2. Open the project in **Apache NetBeans** (or any Java IDE).  
-3. Run the project – and start guessing! 🎮
+Just double-click to play. No installation required!
 
 ---
 
