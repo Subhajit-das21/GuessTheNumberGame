@@ -67,7 +67,13 @@ Because beautiful games deserve beautiful minds 💫.
 
 ---
 
+## 📄 License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
 ## 🌈 Play. Guess. Win.
+
+---
 
 Are you ready to test your luck & logic?  
 👉 Fire up the game and… **Guess The Number!** 👈
