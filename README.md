@@ -32,16 +32,6 @@ Your mission? *Guess the hidden number in the given range* 🔢 … but beware, 
 
 ---
 
-## 🎨 Screenshots
-
-<img width="1008" height="615" alt="welcome" src="https://github.com/user-attachments/assets/bcb6a394-e0c0-4803-b4d2-fc9331f04c20" />
-
-<img width="988" height="600" alt="Game" src="https://github.com/user-attachments/assets/28e4f794-80da-41f7-9f40-3eadc1d34f3b" />
-
-<img width="484" height="213" alt="GoodBye" src="https://github.com/user-attachments/assets/2b187d04-3a7d-4bec-9206-9991b4925f17" />
-
----
-
 ## 🖥️ Download
 
 👉 [Download GuessTheNumber.exe](https://github.com/Saty-am21-04/GuessTheNumberGame/releases/latest/download/Launch.exe)
