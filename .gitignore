@@ -32,8 +32,9 @@ Thumbs.db
 *.log
 *.tmp
 
-# Executables
+# Ignore all .exe files except the one in dist/
 *.exe
+!dist/Launch.exe
 
 # Backup files
 *~
