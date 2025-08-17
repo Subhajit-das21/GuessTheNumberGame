@@ -1,0 +1,40 @@
+/dist/
+/build/
+# Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# NetBeans project files
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# IDE-specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Executables
+*.exe
+
+# Backup files
+*~
+*.bak
