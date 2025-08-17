@@ -40,7 +40,7 @@ Your mission? *Guess the hidden number in the given range* 🔢 … but beware, 
 
 ## 🖥️ Download
 
-👉 [Download GuessTheNumber.exe](https://github.com/satyam-dev/guess-the-number/releases/latest/download/GuessTheNumber.exe)
+👉 [Download GuessTheNumber.exe](https://github.com/Saty-am21-04/GuessTheNumberGame/releases/latest/download/Launch.exe)
 
 Just double-click to play. No installation required!
 
