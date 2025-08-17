@@ -22,8 +22,8 @@ Your mission? *Guess the hidden number in the given range* 🔢 … but beware, 
 1. Choose your **difficulty level**:
    - 🟢 Easy: 1 – 50  
    - 🔵 Medium: 1 – 100 
-   - 🔴 Hard: 1 – 500  
-   - 🟣 Insane: 1 – 20,000  
+   - 🔴 Hard: 1 – 1000  
+   - 🟣 Insane: 1 – 10,000  
 
 2. The game secretly picks a number within the selected range.  
 3. Enter your guess and click **Submit**.  
