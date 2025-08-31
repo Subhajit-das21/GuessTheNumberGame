@@ -36,7 +36,6 @@ Your mission? *Guess the hidden number in the given range* 🔢 … but beware, 
 
 👉 [Download GuessTheNumber.exe](https://github.com/Saty-am21-04/GuessTheNumberGame/releases/latest/download/Launch.exe)
 
-Just double-click to play. No installation required!
 
 ---
 
